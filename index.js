@@ -84,7 +84,7 @@ server.auth.default('simple');
             }
         },
     handler: () => {
-      return "<h3> Welcome to API Back-end Ver. 1.0.0</h3>";
+      return "<h3> Welcome P</h3>";
     },
   });
 
