@@ -59,7 +59,7 @@ async function getMovieSearch(search_text) {
                 return resolve({
                     statusCode: 404,
                     returnCode: 11,
-                    message: 'No movie found',
+                    message: 'No movie found!',
                 });
             }
 
